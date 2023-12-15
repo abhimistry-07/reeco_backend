@@ -1,5 +1,5 @@
-[
-  {
+{
+  "allData": {
     "id": 0,
     "supplier": "ABC Suppliers",
     "shippingDate": "2023-12-14",
@@ -55,4 +55,4 @@
       }
     ]
   }
-]
+}
