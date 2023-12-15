@@ -1,5 +1,4 @@
 {
-  "id": "0",
   "supplier": "ABC Suppliers",
   "shippingDate": "2023-12-14",
   "total": 1500.75,
@@ -8,7 +7,7 @@
   "status": "Shipped",
   "products": [
     {
-      "id": "0",
+      "id": 0,
       "name": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. vvdoloribus laborum distinctio ipsum dolore recusandae?",
       "brand": "XYZ",
       "price": 899.99,
@@ -17,7 +16,7 @@
       "status": "Approved"
     },
     {
-      "id": "1",
+      "id": 1,
       "name": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. vvdoloribus laborum distinctio ipsum dolore recusandae?",
       "brand": "Logitech",
       "price": 24.99,
@@ -26,7 +25,7 @@
       "status": "Missing – Urgent"
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. vvdoloribus laborum distinctio ipsum dolore recusandae?",
       "brand": "Sony",
       "price": 75.79,
@@ -35,7 +34,7 @@
       "status": "Missing"
     },
     {
-      "id": "3",
+      "id": 3,
       "name": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. vvdoloribus laborum distinctio ipsum dolore recusandae?",
       "brand": "Samsung",
       "price": 75.79,
@@ -44,7 +43,7 @@
       "status": "Missing"
     },
     {
-      "id": "4",
+      "id": 4,
       "name": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. vvdoloribus laborum distinctio ipsum dolore recusandae?",
       "brand": "Apple",
       "price": 75.79,
