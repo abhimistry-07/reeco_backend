@@ -1,57 +1,57 @@
 {
   "allData": {
-    "id": 987654,
-    "supplier": "ElectroTech Solutions",
-    "shippingDate": "2023-12-14",
-    "total": 2500.50,
-    "category": "Electronics",
-    "department": "IT",
+    "id": 987,
+    "supplier": "Fresh Food Market",
+    "shippingDate": "2023-12-15",
+    "total": 120.85,
+    "category": "Food",
+    "department": "Grocery",
     "status": "Shipped",
     "products": [
       {
-        "id": 12345,
-        "name": "Smartphone Model X",
-        "brand": "TechCo",
-        "price": 899.99,
+        "id": 1,
+        "name": "Organic Apples",
+        "brand": "Nature's Best",
+        "price": 2.99,
+        "quantity": 5,
+        "total": 14.95,
+        "status": ""
+      },
+      {
+        "id": 2,
+        "name": "Whole Grain Bread",
+        "brand": "Healthy Bakers",
+        "price": 3.49,
         "quantity": 2,
-        "total": 1799.98,
-        "status": "Approved"
+        "total": 6.98,
+        "status": ""
       },
       {
-        "id": 12346,
-        "name": "Wireless Mouse Pro",
-        "brand": "LogiTech",
-        "price": 24.99,
+        "id": 3,
+        "name": "Salmon Fillets",
+        "brand": "SeaFresh",
+        "price": 9.99,
         "quantity": 3,
-        "total": 74.97,
-        "status": "Shipped"
+        "total": 29.97,
+        "status": ""
       },
       {
-        "id": 12347,
-        "name": "Premium Headphones",
-        "brand": "Sony",
-        "price": 125.50,
+        "id": 4,
+        "name": "Organic Quinoa",
+        "brand": "SuperGrains",
+        "price": 4.50,
         "quantity": 1,
-        "total": 125.50,
-        "status": "Delivered"
+        "total": 4.50,
+        "status": ""
       },
       {
-        "id": 12348,
-        "name": "UltraHD Monitor",
-        "brand": "Samsung",
-        "price": 399.99,
-        "quantity": 1,
-        "total": 399.99,
-        "status": "Shipped"
-      },
-      {
-        "id": 12349,
-        "name": "Laptop Pro X",
-        "brand": "Apple",
-        "price": 999.99,
-        "quantity": 1,
-        "total": 999.99,
-        "status": "Pending"
+        "id": 5,
+        "name": "Greek Yogurt",
+        "brand": "Dairy Delight",
+        "price": 2.25,
+        "quantity": 4,
+        "total": 9.00,
+        "status": ""
       }
     ]
   }
