@@ -39,9 +39,9 @@
         "id": 4,
         "name": "Organic Quinoa",
         "brand": "SuperGrains",
-        "price": 4.50,
+        "price": 4.5,
         "quantity": 1,
-        "total": 4.50,
+        "total": 4.5,
         "status": ""
       },
       {
@@ -50,7 +50,52 @@
         "brand": "Dairy Delight",
         "price": 2.25,
         "quantity": 4,
-        "total": 9.00,
+        "total": 9.0,
+        "status": ""
+      },
+      {
+        "id": 6,
+        "name": "Organic Tomatoes",
+        "brand": "Farm Fresh",
+        "price": 1.75,
+        "quantity": 3,
+        "total": 5.25,
+        "status": ""
+      },
+      {
+        "id": 7,
+        "name": "Whole Wheat Pasta",
+        "brand": "Pasta Paradise",
+        "price": 2.99,
+        "quantity": 2,
+        "total": 5.98,
+        "status": ""
+      },
+      {
+        "id": 8,
+        "name": "Fresh Spinach",
+        "brand": "Green Farms",
+        "price": 2.5,
+        "quantity": 5,
+        "total": 12.5,
+        "status": ""
+      },
+      {
+        "id": 9,
+        "name": "Free-Range Eggs",
+        "brand": "Happy Hens",
+        "price": 1.99,
+        "quantity": 8,
+        "total": 15.92,
+        "status": ""
+      },
+      {
+        "id": 10,
+        "name": "Organic Milk",
+        "brand": "Pure Dairy",
+        "price": 3.5,
+        "quantity": 2,
+        "total": 7.0,
         "status": ""
       }
     ]
